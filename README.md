@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning Data Science
-- :computer_mouse: I love Python but I do use C, VerilogHDL for college work too
+- :computer_mouse:  I love Python but I do use C, VerilogHDL for college work too
 - ❤  I looooove team work and communities that grow together
 - ⚡ Fun fact: We can consider me as a cat lady but I only have cat friends from the street :')
 - I'm recording my learning journey, if you want to read articles that are synthesized from various paper searchs, readings and lesson notes feel free to visit where I talk the most:  [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@senanursahin)
