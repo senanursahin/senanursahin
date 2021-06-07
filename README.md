@@ -1,4 +1,4 @@
-### Hi there, It's Sena here👋
+### Hi there, it's Sena here👋
 
 
 
